@@ -1,1 +1,16 @@
+body{background-color: azure;
+padding: 10px;
+text-align: center;
+justify-content: center;
+height: auto;
+}
+.js, .css{
+    background-color: aquamarine;
+    border: 1px solid;
+    border-radius: 2px;
+}
+footer{
+    background-color: black;
+}
+
 
